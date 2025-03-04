@@ -82,7 +82,7 @@ public class Libro {
 
     /**
      * metodo set, obtiene el año de publicacion del libro
-     * @return anioPublicacion del libro
+     * @return anioPublicacion del libro 1
      */
     public void setAnioPublicacion(int anioPublicacion) {
         this.anioPublicacion = anioPublicacion;
