@@ -24,8 +24,10 @@ public class Libro {
      */
     private int anioPublicacion;
 
+    public Libro() {
+    }
 
-    // TODO: Documentar este método
+// TODO: Documentar este método
     // TODO: Testear este método
 
     /**
